@@ -1,0 +1,7 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe.config
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\08_Methods\bin\Debug\08_Methods.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\08_Methods\obj\Debug\08_Methods.pdb

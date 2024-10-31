@@ -1,0 +1,7 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb

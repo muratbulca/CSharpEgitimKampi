@@ -1,0 +1,7 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb

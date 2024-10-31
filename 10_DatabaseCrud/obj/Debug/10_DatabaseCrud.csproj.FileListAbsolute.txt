@@ -1,0 +1,7 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb

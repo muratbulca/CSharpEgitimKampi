@@ -1,0 +1,7 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe.config
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\07_ForeachLoops\bin\Debug\07_ForeachLoops.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.pdb

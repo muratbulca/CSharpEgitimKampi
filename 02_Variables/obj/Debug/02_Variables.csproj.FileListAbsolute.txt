@@ -1,0 +1,7 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb

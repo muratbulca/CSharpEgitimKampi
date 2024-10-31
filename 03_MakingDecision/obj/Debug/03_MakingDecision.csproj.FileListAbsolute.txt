@@ -1,0 +1,7 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb

@@ -1,0 +1,7 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe.config
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\09_DatabaseProject\bin\Debug\09_DatabaseProject.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.exe
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi\09_DatabaseProject\obj\Debug\09_DatabaseProject.pdb
